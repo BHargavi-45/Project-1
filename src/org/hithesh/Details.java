@@ -9,5 +9,9 @@ public class Details {
 		System.out.println("Apple");
 		 int j = 10;
 		 System.out.println("j");
+		 float f = 1.63f;
+			System.out.println(f);
+
+		
 }
 }
