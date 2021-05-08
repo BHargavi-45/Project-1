@@ -6,5 +6,8 @@ public class Details {
 		System.out.println(s);
 		int a = 20;
 		System.out.println("a");
+		System.out.println("Apple");
+		 int j = 10;
+		 System.out.println("j");
 }
 }
